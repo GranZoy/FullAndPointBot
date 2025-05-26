@@ -1,0 +1,2 @@
+# FullAndPointBot
+ Bot for olympiad
