@@ -1,4 +1,8 @@
 # FullAndPointBot  
+
+This project is available in:
+- [Русский] https://github.com/GranZoy/FullAndPointBot/blob/main/README.ru.md
+
 A Telegram bot that facilitates communication with problem authors for an olympiad. The process consists of several steps:  
 
 - Entering the problem authors  
